@@ -12,10 +12,12 @@ Users can create events, and other users can view the details of the events.
 As a bonus feature, the code in faceebook is written to help people learn
 to write code using the Ruby on Rails framework. Some of our code is **heavily** commented for teaching purposes.
 
-Some files to check out first if you'd like to learn more include:
+Some files that have been commented with code/concept explanations are:
 
 - models/user.rb
-
+- migrate/20130330014710_create_events.rb
+- minimal_posts_controller.rb
+- Gemfile
 
 ### Our Utopian Vision for Social Networking
 
