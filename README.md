@@ -24,4 +24,4 @@ Some files that have been commented with code/concept explanations are:
 In Faceebook, all users can view each others postings and events. We discard
 the concept of 'friends'. Everyone is friends on faceebook!
 
-If you do not share our vision, we recommend you explore our competitor application, [faceebook, which has open source code available at this link](https://github.com/juliat/fakebook).
+If you do not share our vision, we recommend you explore our competitor application, [fakebook, which has open source code available at this link](https://github.com/juliat/fakebook).
